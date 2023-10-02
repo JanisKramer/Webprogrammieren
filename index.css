@@ -1,0 +1,36 @@
+.Button {
+  height: 30px;
+  width: 100px;
+  border: 1px dashed blue;
+  background-color: white;
+  color: #0f320a;
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: crosshair;
+}
+
+#K1 {
+  background-color: red;
+}
+#K2 {
+  background-color: blue;
+}
+#K3 {
+  background-color: green;
+}
+#K4 {
+  background-color: green;
+}
+
+.Kinderelement {
+  width: 60px;
+  height: 40px;
+  border: solid 1px black;
+}
+
+#Elternelement {
+  flex: auto;
+  flex-flow: row;
+}
+
+
